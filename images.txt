@@ -6,5 +6,6 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #kafka
 #cloudera/quickstart:latest
-nacos/nacos-server
-rocketmq
+#nacos/nacos-server
+#rocketmq
+spark
