@@ -9,4 +9,5 @@
 #nacos/nacos-server
 #rocketmq
 #spark
-hadoop
+#hadoop
+flink
