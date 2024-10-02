@@ -7,3 +7,4 @@
 #kafka
 #cloudera/quickstart:latest
 nacos/nacos-server
+rocketmq
