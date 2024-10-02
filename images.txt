@@ -12,4 +12,5 @@
 #hadoop
 #flink
 #zookeeper
-jenkins
+#jenkins
+hbase
