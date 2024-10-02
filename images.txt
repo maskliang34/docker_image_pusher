@@ -10,4 +10,5 @@
 #rocketmq
 #spark
 #hadoop
-flink
+#flink
+zookeeper
