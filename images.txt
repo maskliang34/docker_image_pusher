@@ -8,4 +8,5 @@
 #cloudera/quickstart:latest
 #nacos/nacos-server
 #rocketmq
-spark
+#spark
+hadoop
